@@ -1,0 +1,23 @@
+{
+  "people": [
+    "Aadvik",
+    "Ashwin",
+    "Baba",
+    "Bhoomi",
+    "Dadi",
+    "Dolly",
+    "Mannu",
+    "Mummy",
+    "Pankaj Chacha",
+    "Papa",
+    "Priyanshu",
+    "Rinki Chachi",
+    "Sameer",
+    "Yash"
+  ],
+  "num_people": 14,
+  "confidence_thresh": 0.55,
+  "embedding_size": 512,
+  "total_samples": 2176,
+  "cv_accuracy": 0.4871454181166298
+}
